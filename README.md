@@ -47,3 +47,34 @@ Niektóre połączenia liter działają tak jak dwógłoski w polskim
 | Sut wyt ti? | Jak się masz? | syt ujt ti | |
 | Da iawn, diolch. | Bardzo dobrze, dziękuję | da jawn di-olh | |
 
+## Kilka pierwszych słów 
+
+hoffi
+coginio
+dysgu
+darllen
+bwyta
+
+coffi
+llyfr
+cymraeg
+
+## Liczby
+
+## Czas teraźniejszy
+
+Żeby powiedzieć, że coś robię, lubię używamy czasu prostego. 
+
+Dw i'n hoffi - lubię
+Dw i'n dysgu - uczę się
+Dw i'n gyrru - jadę (samochodem) 
+
+`i'n` to złączone dwa wyrazy `i` i `yn` więc w zdaniu mamy 4 elementy `Dw` `i` `yn` `hoffi`. 
+
+`Dw` to czasownik _być_ w pierwszej osobie liczby pojedyńczej czyli _jestem_.
+`i` to zaimek _ja_.
+`yn` w tym kontekscie to część łącząca podmiot z orzeczeniem, zaimek z czasownikiem, _ja_ z _lubić_. 
+`hoffi` to czasownik lubić. 
+
+
+

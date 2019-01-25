@@ -7,7 +7,7 @@ Alfabet walijski jest dość prosty z polskiego punktu widzenia. Większość li
 
 |    |    |    |    |     |     |
 |----:|----|----:|----|----:|----|
-| a | **a**la | ng | ? | ph | ? |
+| a | **A**la | ng | ? | ph | ? |
 | b | **b**ok | h | **ch**miel | r | **r**ak |
 | c | **k**ot | i | **i**mię | rh | a**rch**iwum |
 | ch | ? | j | **dż**em | s | **s**ęk |
@@ -23,8 +23,8 @@ z daszkiem `^` jak na przykłąd `ê`, `ô`, `ŵ` czy `ŷ`.
 
 `i` i `u` brzmią tak samo. 
 
-`y` wymawia się na trzy różne sposoby, jako **y**, **i** lub miękkie **e**. Nie ma na to jasnych zasad, 
-trzeba się z tym osłuchać. 
+`y` wymawia się na trzy różne sposoby i może brzmieć jak polskie **y**, **i** lub miękkie **e**. 
+Nie ma na to jasnych zasad, trzeba się z tym osłuchać. 
 
 Litery, które wyglądają jak _dwógłoski_, czyli `ch`, `dd`, `ff`, `ph`, `rh`, `th` są traktowane jako pojedyńcze 
 litery w walijskim. W słownikach mają oddzielne sekcje, w krzyżówkach wpisuje się je w pojedyńcze kratki. 
@@ -33,6 +33,17 @@ Niektóre połączenia liter działają tak jak dwógłoski w polskim
 
 * `si` czyta się jako **szi**. Siop czyta się jako sziop. 
 * `oe` czyta się jak **oj** w wyrazie m**oj**e. 
-* `wy` czy ta się jak **ój** w wyrazie w**ój** lub **ły** w wyrazie **ły**wy.
+* `wy` czy ta się jak **uj** w wyrazie w**uj**, **ły** w wyrazie **ły**żwy lub **łi** w **wee**kend. 
 
 `Chwech` to w walijskim jednosylabowy, czteroliterowy wyraz: `Ch` `w` `e` `ch`. 
+
+
+## Kilka pierwszych wyrażeń
+
+|  walijski | polski | przybliżona wymowa | wymowa |
+|----:|----|----|----|
+| Bore da. | Dzień dobry. | bore da | |
+| Michał dw i | Jestem Michał | Michał du i | |
+| Sut wyt ti? | Jak się masz? | syt ujt ti | |
+| Da iawn, diolch. | Bardzo dobrze, dziękuję | da jawn di-olh | |
+

@@ -112,7 +112,7 @@ Jeśli rzeczownik jest rodzaju żeńskiego, to przymiotnik podlega miękkiej mut
 cath fach - _jakiś_ mały kot - kotek
 y gath fawr - _ten_ duży kot - kocisko
 
-![rzeczowniki](ilustracje\rzeczownik.png)
+![rzeczowniki](ilustracje/rzeczownik.png)
 
 
 
